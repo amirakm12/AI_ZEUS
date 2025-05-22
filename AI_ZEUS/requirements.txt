@@ -1,0 +1,5 @@
+speechrecognition
+pycryptodome
+pyjwt
+numpy
+pyyaml
