@@ -1,5 +1,1 @@
-speechrecognition
-pycryptodome
-pyjwt
-numpy
-pyyaml
+requests
